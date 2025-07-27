@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAdjacentEqualNumbers", "SumAdjacentEqualNumbers\SumAdjacentEqualNumbers.csproj", "{674BBCCA-748A-4091-850A-0292E51C8E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussTrick", "GaussTrick\GaussTrick.csproj", "{8E110F79-1EEB-4158-872F-DA0B621D360E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{674BBCCA-748A-4091-850A-0292E51C8E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{674BBCCA-748A-4091-850A-0292E51C8E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{674BBCCA-748A-4091-850A-0292E51C8E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E110F79-1EEB-4158-872F-DA0B621D360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E110F79-1EEB-4158-872F-DA0B621D360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E110F79-1EEB-4158-872F-DA0B621D360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E110F79-1EEB-4158-872F-DA0B621D360E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
